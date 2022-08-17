@@ -2,7 +2,7 @@
 ## **Overview**
 The purpose of this analysis is to provide data regarding the New York City CitiBike business model, in order to assess the viability of recreating the business plan in another city. 
 
-**A link to my Tableau Database can be found [here](https://public.tableau.com/shared/NSQ787R48?:display_count=n&:origin=viz_share_link).
+**A link to my Tableau Database can be found [here](https://public.tableau.com/shared/NSQ787R48?:display_count=n&:origin=viz_share_link).**
 
 ## **Results**
 The below results show a number of analytica visualizations of ride data, breaking down duration, age, gender, customer type and bike utilization. 
